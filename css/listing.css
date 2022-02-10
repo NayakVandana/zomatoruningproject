@@ -1,0 +1,88 @@
+#section0 {
+    text-align: center;
+    background-image: url(../img/listinghero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.overlay {
+    height: 50vh;
+}
+#section0 h2 {
+    font-size: 80px;
+    color: white;
+    padding-top: 120px;
+}
+#section0 p {
+    color: white;
+    width: 800px;
+    font-size: 20px;
+}
+#section1 {
+    padding: 100px 0px;
+}
+#section1 .container {
+    display: flex;
+    justify-content: space-between;
+}
+.sideSection1 {
+    box-shadow: 0px 0px 9px 1px rgb(175 175 175 / 47%);
+    padding: 20px;
+}
+.sideSection1 h2 {
+    font-size: 30px;
+    font-weight: 500;
+}
+.sideSection1 p {
+    font-size: 20px;
+    font-weight: 500;
+}
+.option {
+    padding-left: 50px;
+    padding-top: 30px;
+}
+.option label {
+    font-size: 20px;
+}
+.productbox {
+    display: flex;
+    margin-bottom: 30px;
+    box-shadow: 0px 0px 9px 1px rgb(175 175 175 / 47%);
+    border-radius: 10px;
+}
+.productbox .col-lg-5 {
+    padding: 0;
+}
+.productbox img {
+    border-radius: 10px 0px 0px 10px;
+}
+.othercontent {
+    padding: 20px;
+}
+.productbox h2 {
+    font-size: 30px;
+    font-weight: 500;
+    padding-top: 30px;
+}
+.foodcontent {
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin: 10px 0px;
+}
+.rating {
+    background-color: #24963F;
+    padding: 3px 7px;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+}
+.rating i {
+    font-size: 10px;
+}
+.price {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 10px 0px;
+}
+
+

@@ -1,0 +1,73 @@
+@media only screen and (max-width:420px)
+{
+    #section2 h1
+    {
+        font-size: 50px;
+        padding-top:170px;
+    }
+    #section2 p
+    {
+        text-align: center;
+    }
+    #section2 form
+    {
+        margin:5px;
+    }
+    #section2 form input
+    {
+        width: 100px;
+    }
+    #section2 form select{
+        width: 200px;
+    }
+   
+   #section4 h2
+   {
+       padding-top:30px;
+       font-size: 30px;
+   }
+   #section4 .col-lg-8
+   {
+       padding:10px 10px;
+   }
+   #section4 button
+   {
+       display: inline-block;
+       margin:10px 0px; 
+   }
+
+   #listing #section0 h2
+   {
+       font-size: 50px;
+       padding-top:200px;
+   }
+   #listing #section0 p
+   {
+       width: 100%;
+       font-size: 18px;
+   }
+   #listing .overlay
+   {
+       height:calc(100vh - 80px);
+   }
+   #listing .productbox
+   {
+       margin:20px 5px;
+   }
+   .productbox img
+{
+    border-radius: 10px 10px 0px 0px;
+}
+#section1 .content .desc
+{
+    width: 100%;
+}
+#section1 .content h2
+{
+    margin-top:20px;
+}
+.img-index
+{
+    width:100%;
+}
+}
